@@ -14,13 +14,15 @@ class TestDemo1(unittest.TestCase):
         self.hp = HomePO(self.driver)
 
     def testmethodA(self):
-        print("Testing method A")
-        self.lp.sendUserName("admin1")
-        self.lp.sendPwd("manager1")
-        self.lp.keepmeloggedinChkbx()
-        self.lp.clicklgnbtn()
-        time.sleep(5)
-        assert self.lp.errormsg() == "Username or Password is invalid. Please try again."
-
+        try:
+            print("Testing method A")
+            self.lp.sendUserName("admin1")
+            self.lp.sendPwd("manager1")
+            self.lp.keepmeloggedinChkbx()
+            self.lp.clicklgnbtn()
+            time.sleep(5)
+            assert self.lp.errormsg() == "sername or Password is invalid. Please try again."
+        except:
+            self.driver.get_screenshot_as_file("C:\\Users\\shekar\\PycharmProjects\\AutomationFW\\screenshots\\TestDemo1.png")
 
 

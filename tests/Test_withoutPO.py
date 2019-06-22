@@ -36,6 +36,7 @@ class Class1:
         self.driver.close()
 
 
+
 def main():
     obj1 = Class1()
     obj1.method1()

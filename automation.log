@@ -162,3 +162,23 @@
 06/22/2019 01:15:48 PM - LoginPO - INFO: Identified the web element with locator //a[@id='loginButton'] locator type xpath
 06/22/2019 01:15:48 PM - LoginPO - INFO: Clicked on element - //a[@id='loginButton']
 06/22/2019 01:15:53 PM - LoginPO - INFO: Identified the web element with locator //span[contains(text(),'Username or Password is invalid. Please try again.')] locator type xpath
+06/22/2019 01:56:40 PM - WebDriverFactory - INFO: Test cases will execute in chrome browser
+06/22/2019 01:56:46 PM - LoginPO - INFO: Identified the web element with locator //input[@id='username'] locator type xpath
+06/22/2019 01:56:46 PM - LoginPO - INFO: Sent some data to element - //input[@id='username'] date admin1
+06/22/2019 01:56:46 PM - LoginPO - INFO: Identified the web element with locator //input[@placeholder='Password'] locator type xpath
+06/22/2019 01:56:46 PM - LoginPO - INFO: Sent some data to element - //input[@placeholder='Password'] date manager1
+06/22/2019 01:56:46 PM - LoginPO - INFO: Identified the web element with locator //div[@id='keepLoggedInCheckBoxContainer'] locator type xpath
+06/22/2019 01:56:47 PM - LoginPO - INFO: Clicked on element - //div[@id='keepLoggedInCheckBoxContainer']
+06/22/2019 01:56:47 PM - LoginPO - INFO: Identified the web element with locator //a[@id='loginButton'] locator type xpath
+06/22/2019 01:56:47 PM - LoginPO - INFO: Clicked on element - //a[@id='loginButton']
+06/22/2019 01:56:52 PM - LoginPO - INFO: Identified the web element with locator //span[contains(text(),'Username or Password is invalid. Please try again.')] locator type xpath
+06/22/2019 01:58:10 PM - WebDriverFactory - INFO: Test cases will execute in chrome browser
+06/22/2019 01:58:12 PM - LoginPO - INFO: Identified the web element with locator //input[@id='username'] locator type xpath
+06/22/2019 01:58:12 PM - LoginPO - INFO: Sent some data to element - //input[@id='username'] date admin1
+06/22/2019 01:58:12 PM - LoginPO - INFO: Identified the web element with locator //input[@placeholder='Password'] locator type xpath
+06/22/2019 01:58:12 PM - LoginPO - INFO: Sent some data to element - //input[@placeholder='Password'] date manager1
+06/22/2019 01:58:12 PM - LoginPO - INFO: Identified the web element with locator //div[@id='keepLoggedInCheckBoxContainer'] locator type xpath
+06/22/2019 01:58:12 PM - LoginPO - INFO: Clicked on element - //div[@id='keepLoggedInCheckBoxContainer']
+06/22/2019 01:58:12 PM - LoginPO - INFO: Identified the web element with locator //a[@id='loginButton'] locator type xpath
+06/22/2019 01:58:12 PM - LoginPO - INFO: Clicked on element - //a[@id='loginButton']
+06/22/2019 01:58:17 PM - LoginPO - INFO: Identified the web element with locator //span[contains(text(),'Username or Password is invalid. Please try again.')] locator type xpath
